@@ -1,0 +1,1 @@
+O heap é utilizado para guardar as variáveis globais, estruturas, arrays e é endereçado através de apontadores, enquanto o Stack é utilizado para para variáveis locais, argumentos, endereços de returno e a estrutura é LIFO (Last In First Out).

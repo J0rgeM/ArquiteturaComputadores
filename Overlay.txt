@@ -1,0 +1,1 @@
+Overlay é quando parte dos endereços de memória estão reservados para se poder comunicar com algum outro dispositivo, sem ser a memória. O que acontece nestes caso o processador enderece um dos endereços reservados, o chip desse outro dispositivo é ativado e comunicação pode acontecer.
